@@ -1,7 +1,7 @@
 BOM explosion
 ===========
 
-Description: Bill of material explosion. Collect all needed sub-parts
+Description: Bill of material explosion. Collects all needed parts(details)
 
 Usage: Run with argument: /{pathToFile}/{fileName}
 
