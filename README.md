@@ -5,7 +5,7 @@ Description: Bill of material explosion. Collect all needed sub-parts
 
 Usage: Run with argument: /{pathToFile}/{fileName}
 
-##File example:
+##File example (without headers):
 
 | Part      | SubPart  |Quantity|
 |-----------|:---------| ------:|
@@ -20,10 +20,10 @@ Usage: Run with argument: /{pathToFile}/{fileName}
 |Spokes     |Spoke     |       1|
 |Spokes     |Nipple    |       1|
 
-##Result output:
+##Result output (without headers):
 
 |Quantity|SubPart|
-|------|-----------|
+|-----:|-----------|
 |     1| Handlebar |
 |     2| Pedal     |
 |     1| Frame     |
